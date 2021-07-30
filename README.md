@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Apeperia-Responsividade
+Estudo sobre responsividade de sites usando o material da Alura Cursos
