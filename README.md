@@ -7,7 +7,7 @@
     Estudo sobre responsividade
   <br>
   <br>
-    <img src="https://raw.githubusercontent.com/GSSantiago/Apeperia-Responsividade/528a55ee7dac78da338821544fd6acbaa9db0109/img/logo-apeperia.svg?token=ARUH5C4AHBHTETWJ23QCJ3LBASJQ2" alt="Apeperia" height="150" align="center">
+    <img src="https://github.com/GSSantiago/Apeperia-Responsividade/blob/master/img/logo-apeperia.svg" alt="Apeperia" height="150" align="center">
   <br>
 </h3>
 
